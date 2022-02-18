@@ -16,6 +16,6 @@
     "incremental": true,
     "baseUrl": "./"
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "pages/api/auth/[...nextauth].js", "lib/spotify.js", "pages/login.tsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "pages/api/auth/[...nextauth].js", "lib/spotify.js", "pages/login.jsx", "pages/api/hello.js", "pages/_app.jsx", "pages/index.jsx"],
   "exclude": ["node_modules"]
 }
