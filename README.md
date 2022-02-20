@@ -6,6 +6,7 @@ You need to make sure to have these before using this website:
 
 1. Spotify Premium Account
 2. Active device (mobile phone, PC) with Spotify (app or browser)
-   _You still can login without premium account but cannot use the features_
+
+_You still can login without premium account but cannot use the features_
 
 Try now here: [Spotify Clone](https://spotify-clone-two-gold.vercel.app/).
